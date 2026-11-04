@@ -1,7 +1,3 @@
-<h1 align="left">
-  Hi 👋 My name is Huy
-</h1>
-
 ###
 
 <p align="left">
