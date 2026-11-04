@@ -1,3 +1,15 @@
+<h1 align="left">
+  Hi 👋 My name is Huy
+</h1>
+
+###
+
+<p align="left">
+  Bạn nghĩ tôi ngu, tôi ngu hơn bạn nghĩ.
+</p>
+
+###
+<hr/>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giahuynguyenha1105@gmail.com) 
