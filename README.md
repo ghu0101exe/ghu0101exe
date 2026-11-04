@@ -3,10 +3,10 @@
 <p align="left">
   Sometimes you win.
   Sometimes you learn.
-"Nó không khó, nó chỉ mới thoai"
-  
 </p>
-
+<p align="left">
+"Nó không khó, nó chỉ mới thoai"
+</p>
 ###
 <hr/>
 
