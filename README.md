@@ -5,7 +5,8 @@
 ###
 
 <p align="left">
-  Bạn nghĩ tôi ngu, tôi ngu hơn bạn nghĩ.
+  Sometimes you win.
+  Sometimes you learn.
 </p>
 
 ###
