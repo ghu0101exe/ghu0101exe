@@ -1,4 +1,3 @@
-###
 
 <p align="left">
   Sometimes you win.
@@ -7,7 +6,7 @@
 <p align="left">
 "Nó không khó, nó chỉ mới thoai"
 </p>
-###
+
 <hr/>
 
 ## 𝄞⨾💿✮˚.⋆Socials:
