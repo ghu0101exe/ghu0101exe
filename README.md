@@ -3,7 +3,7 @@
   Sometimes you learn.
 </p>
 <p align="left">
-"Nó không khó, nó chỉ mới thoai"
+"It's not hard, it's just new"
 </p>
 <hr/>
 
